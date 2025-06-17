@@ -22,4 +22,5 @@ These data types are regulated under HIPAA and their exposure can result in lega
 3. MITRE ATT&CK Mapping
    | Tactic | Technique | Technique ID | Description |
    |----    |  -----    |    -------   | -----       |
-   | 
+   | Initial Access | Valid Accounts | T1078 | Used stolen Citrix credentials for access |
+   | Execution | Command and Scripting Interpreter | T1059 | PowerShell or batch scripts to execute payloads |
