@@ -24,3 +24,4 @@ These data types are regulated under HIPAA and their exposure can result in lega
    |----    |  -----    |    -------   | -----       |
    | Initial Access | Valid Accounts | T1078 | Used stolen Citrix credentials for access |
    | Execution | Command and Scripting Interpreter | T1059 | PowerShell or batch scripts to execute payloads |
+   | Persistence |  Create or Modify System Process | T1543 | Created malicious services to maintain access|
