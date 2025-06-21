@@ -26,4 +26,4 @@ These data types are regulated under HIPAA and their exposure can result in lega
    | Execution | Command and Scripting Interpreter | T1059 | PowerShell or batch scripts to execute payloads |
    | Persistence |  Create or Modify System Process | T1543 | Created malicious services to maintain access|
    | Privilege Escalation | Exploitation for Privilege Escalation | T1068 | Exploited system vulnerabilities |
-   |Defense Evasion | Impair Defenses  | T1562 | Disabled antivirus/EDR tools |
+   |Defense Evasion | Impair Defenses  | T1562 | Disabled antivirus/EDR tools 
