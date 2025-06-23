@@ -20,6 +20,8 @@ PII (Personally Identifiable Information): Names, addresses, SSNs, insurance IDs
 These data types are regulated under HIPAA and their exposure can result in legal, financial, and reputational damage.
 
 3. MITRE ATT&CK Mapping
+
+||
    | Tactic | Technique | Technique ID | Description |
    |----    |  -----    |    -------   | -----       |
    | Initial Access | Valid Accounts | T1078 | Used stolen Citrix credentials for access |
